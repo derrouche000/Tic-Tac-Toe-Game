@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Simple Projects\xo game\bin\Debug\xo game.exe.config
+C:\Users\USER\Desktop\Simple Projects\xo game\bin\Debug\xo game.exe
+C:\Users\USER\Desktop\Simple Projects\xo game\bin\Debug\xo game.pdb
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo game.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo_game.Form1.resources
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo_game.Properties.Resources.resources
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo game.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo game.exe
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo game.pdb
+C:\Users\USER\Desktop\Simple Projects\xo game\obj\Debug\xo game.exe.config
